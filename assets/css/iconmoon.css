@@ -74,3 +74,6 @@
 .icon-chevron-right:before {
   content: "\e904";
 }
+.icon-spinner:before {
+  content: "\e97b";
+}
