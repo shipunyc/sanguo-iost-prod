@@ -50,6 +50,21 @@
 .icon-shield:before {
   content: "\e90e";
 }
+.icon-zoomin:before {
+  content: "\e90c";
+}
+.icon-envelop:before {
+  content: "\e945";
+}
+.icon-spinner:before {
+  content: "\e97b";
+}
+.icon-evil:before {
+  content: "\e9ef";
+}
+.icon-play:before {
+  content: "\ea15";
+}
 .icon-ugas:before {
   content: "\e90b";
 }
@@ -59,9 +74,11 @@
 .icon-sgt:before {
   content: "\e900";
 }
-.icon-sgt:before {
-  content: "\e900";
-  color: #f3800c;
+.icon-angle-left:before {
+  content: "\e907";
+}
+.icon-angle-double-left:before {
+  content: "\e908";
 }
 .icon-bars:before {
   content: "\e909";
@@ -89,16 +106,4 @@
 }
 .icon-chevron-right:before {
   content: "\e904";
-}
-.icon-envelop:before {
-  content: "\e945";
-}
-.icon-spinner:before {
-  content: "\e97b";
-}
-.icon-evil:before {
-  content: "\e9ef";
-}
-.icon-play:before {
-  content: "\ea15";
 }
